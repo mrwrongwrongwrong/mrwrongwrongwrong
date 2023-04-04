@@ -1,7 +1,7 @@
-- 👋 Hi, I’m a mundane person. I love coding and thinking in a mathematical way.
-- 👀 I’m interested in doing boring but meaningful things.
-- 🌱 I’m currently learning PL.
-- 💞️ I’m looking to collaborate on Compiler projects.
+- 👋 Hi, Welcome to Y's Page. I love coding and thinking in a rigorous way.
+- 👀 I’m interested in doing boring but meaningful things. Again, I love coding.
+- 🌱 I’m currently doing research PL. I love PL.
+- 💞️ I’m looking to collaborate on Compiler projects. I love doing projects.
 - 📫 How to reach me: sending email to my school email.
 
 <!---
